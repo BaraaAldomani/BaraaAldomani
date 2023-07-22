@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/BaraaAldomani](https://github.com/BaraaAldomani)
 
-- 💬 Ask me about **Flutter**
+- 💬 Ask me about **Flutter or Laravel**
 
 - 📫 How to reach me **baraadom9@gmail.com**
 
