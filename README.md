@@ -1,15 +1,17 @@
 <h1 align="center">Hi 👋, I'm Baraa Aldomani</h1>
-<h3 align="center">A full stack developer using Flutter & Laravel</h3>
+<h3 align="center">A Backend developer using PHP & Laravel</h3>
 
-- 🔭 I’m currently working on **printly**
+- 🔭 I’m currently working on **printly project**
 
 - 🌱 I’m currently learning **Docker , DevOps**
 
 - 👨‍💻 All of my projects are available at [https://github.com/BaraaAldomani](https://github.com/BaraaAldomani)
 
-- 💬 Ask me about **Flutter or Laravel**
+- 💬 Ask me about **PHP or Laravel**
 
-- 📫 How to reach me **baraadom9@gmail.com**
+- 📫 Email **baraadom9@gmail.com**
+- 📫 Phone 1 **+966 553 785 576**
+- 📫 Phone 2 **+963 930 716 527**
 
 
 ## 🌐 Socials:
